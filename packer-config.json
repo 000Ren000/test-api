@@ -1,0 +1,8 @@
+{
+  "appName": "my-nodegui-app",
+  "target": "desktop",
+  "srcDir": "./src",
+  "distDir": "./dist",
+  "executableName": "smy-nodegui-app",
+  "icon": "./icon.png"
+}
