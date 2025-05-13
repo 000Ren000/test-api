@@ -8,7 +8,7 @@ app.get('/', (req, res) => {
 
 try {
     app.listen(3000);
-    logger.info('App listening on port 3000');
+    console.log('App listening on port 3000');
 } catch (e) {
     console.log(e.message)
 }
